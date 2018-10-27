@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 			pattern Lock 哈哈hahahaahhhhahhahahaahaahhahahahahahahahhahah哈
                    DESC
 
-  s.homepage     = "https://github.com/709530753/SLMPatternLock"
+  s.homepage     = "https://github.com/709530753/MYXCPatternLock"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/709530753/SLMPatternLock.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/709530753/MYXCPatternLock.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
