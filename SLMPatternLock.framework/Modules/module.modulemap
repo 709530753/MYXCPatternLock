@@ -1,0 +1,6 @@
+framework module SLMPatternLock {
+  umbrella header "SLMPatternLock.h"
+
+  export *
+  module * { export * }
+}
